@@ -1,13 +1,6 @@
-__pycache__
+_pycache_
 dnn_model
 images
+allpoints.csv
 kalmanfilter.py
-./real2.mp4
-./real3.mp4
-./real4.mp4
-./real5.mp4
-./crashtest3.mp4
-./crashtest4.mp4
-./allpoints.csv
-./tracker.py
-
+tracker.py
